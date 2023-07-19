@@ -1,0 +1,15 @@
+C:\Users\kaiqsant\Desktop\SimpleCalculator\bin\Debug\net7.0\SimpleCalculator.exe
+C:\Users\kaiqsant\Desktop\SimpleCalculator\bin\Debug\net7.0\SimpleCalculator.deps.json
+C:\Users\kaiqsant\Desktop\SimpleCalculator\bin\Debug\net7.0\SimpleCalculator.runtimeconfig.json
+C:\Users\kaiqsant\Desktop\SimpleCalculator\bin\Debug\net7.0\SimpleCalculator.dll
+C:\Users\kaiqsant\Desktop\SimpleCalculator\bin\Debug\net7.0\SimpleCalculator.pdb
+C:\Users\kaiqsant\Desktop\SimpleCalculator\obj\Debug\net7.0\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\kaiqsant\Desktop\SimpleCalculator\obj\Debug\net7.0\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiqsant\Desktop\SimpleCalculator\obj\Debug\net7.0\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\kaiqsant\Desktop\SimpleCalculator\obj\Debug\net7.0\SimpleCalculator.AssemblyInfo.cs
+C:\Users\kaiqsant\Desktop\SimpleCalculator\obj\Debug\net7.0\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kaiqsant\Desktop\SimpleCalculator\obj\Debug\net7.0\SimpleCalculator.dll
+C:\Users\kaiqsant\Desktop\SimpleCalculator\obj\Debug\net7.0\refint\SimpleCalculator.dll
+C:\Users\kaiqsant\Desktop\SimpleCalculator\obj\Debug\net7.0\SimpleCalculator.pdb
+C:\Users\kaiqsant\Desktop\SimpleCalculator\obj\Debug\net7.0\SimpleCalculator.genruntimeconfig.cache
+C:\Users\kaiqsant\Desktop\SimpleCalculator\obj\Debug\net7.0\ref\SimpleCalculator.dll
